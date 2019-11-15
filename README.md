@@ -1,8 +1,8 @@
 # hello-world
-My first repository！
 
 int main(){
 
   string str="hello world!";
   cout<<str<<endl;
 }
+测试分支作用。
